@@ -31,7 +31,7 @@ To build and run this application, follow these steps:
 
 ### Installation
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone [<repository_url>](https://github.com/itzikpich/Motiv8App.git)`
 2. Open the project in Android Studio.
 3. Build the project: **Build > Make Project**
 4. Run the application on an emulator or physical device: **Run > Run 'app'**
